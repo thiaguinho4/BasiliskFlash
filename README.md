@@ -1,3 +1,3 @@
 # basilisk-flash
 
-- **A browser integrated with Adobe Flash Player**
+- **Um navegador integrado com Adobe Flash Player**
